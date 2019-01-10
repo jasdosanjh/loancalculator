@@ -6,7 +6,6 @@ Loan Calculator is a simple web application that allows you to calculate loans w
 www.jazdosanjh.com/loancalculator/
 
 ## Built With
-
 * HTML5
 * CSS3
 * Bootstrap 4
